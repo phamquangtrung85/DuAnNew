@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 ## Trưởng nhóm thay đổi cập nhật nhánh master
 
+## Thành viên sửa trên nhánh dev
 First, run the development server:
 
 ```bash
