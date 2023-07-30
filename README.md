@@ -1,9 +1,23 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 ## Trưởng nhóm thay đổi cập nhật nhánh master
 
 ## Thành viên sửa trên nhánh dev
+
+## dev đã hợp nhất master vào dev rồi.
+
+## bây giờ có thể làm tiếp trên dev.
+
+# xong thì push lên server github, rồi gửi pull request tới master
+
+# sau đó trưởng nhóm, xem zalo, hoặc skype để lấy link hợp nhất của dev báo gửi và thực hiện hợp nhất.
+
+# vậy là xong một phiên làm việc nhóm.
+
+# ctrl + s sẽ lưu và tự động định dạng hàng đẹp.
+
 First, run the development server:
 
 ```bash
